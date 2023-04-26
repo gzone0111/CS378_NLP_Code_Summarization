@@ -1,0 +1,5 @@
+nltk
+numpy
+prettytable
+torch>=1.3.0
+tqdm
